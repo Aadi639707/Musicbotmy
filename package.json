@@ -1,0 +1,14 @@
+{
+  "name": "ultra-fast-music-pro",
+  "version": "2.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "erela.js": "^2.3.3",
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
